@@ -1,0 +1,21 @@
+table.mytable{
+    border: none;
+}
+
+table.mytable td {
+    border: none;
+    text-align:  left;
+    vertical-align:  top;
+    padding-right: 30px;
+    padding-bottom: 6px;
+    padding-top: 4px;
+}
+
+ul li{
+    margin-bottom:6px;
+    margin-top:4px;
+}
+
+img{
+    display:block;
+}
